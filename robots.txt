@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mohansai.github.io/handbook-fj0phi/sitemap.xml
